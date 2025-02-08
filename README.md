@@ -25,7 +25,7 @@ AI PDF Note Taker is an intelligent application designed to help users take note
 This project was developed by **Mohammad Armaan**. You can check out his portfolio here: [Mohammad Armaan](https://mohammadarmaan.netlify.app)
 
 ## Deployment
-The project is live and accessible at: [AI PDF Note Taker](https://ai-pdf-note-taker.vercel.app)
+The project is live and accessible at: [AI PDF Note Taker](https://aipdfnotetaker.vercel.app)
 
 ## Contributing
 Contributions are welcome! Feel free to fork the repository and submit a pull request with your improvements.
